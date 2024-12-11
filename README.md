@@ -296,4 +296,4 @@ http://localhost:3000
 ### 인프라
 - PM2: 프로세스 관리
 - Docker 지원
-- 환경 변수 기반 설정# test-BootcampChat
+- 환경 변수 기반 설정
